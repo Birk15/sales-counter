@@ -23,36 +23,45 @@ body {
   flex-direction: column;
 }
 
+.icon {
+    font-size: 20vw;
+    margin-bottom: 0;
+}
+
 h1 {
-  margin-bottom: 20px;
+  margin-top: 0;
+  font-size: 12vw;
+  margin-bottom: 10vw;
 }
 
 .umsatz {
-  font-size: 32px;
+  font-size: 18vw;          /* Sehr groß auf Handy, skaliert mit Breite */
   font-weight: bold;
-  margin-bottom: 25px;
+  margin-bottom: 5vh;       /* Abstand proportional zur Höhe */
   color: #2e7d32;
 }
 
 .eingabe {
   display: flex;
-  gap: 10px;
+  gap: 3vw;                 /* Abstand zwischen Input und Button */
+  width: 100%;              /* volle Breite */
+  margin-bottom: 5vh;       /* Abstand nach unten */
 }
 
 input {
   flex: 1;
-  padding: 10px;
-  font-size: 16px;
-  max-width: 300px;
+  padding: 2.5vh 2vw;       /* vertikal/horizontal proportional */
+  font-size: 5vw;           /* Text skaliert mit Bildschirmbreite */
+  border-radius: 2vw;
 }
 
 button {
-  padding: 10px 15px;
-  font-size: 16px;
+  padding: 2.5vh 4vw;       /* vertikal/horizontal proportional */
+  font-size: 5vw;           /* Text skaliert */
   background: #2e7d32;
   color: white;
   border: none;
-  border-radius: 6px;
+  border-radius: 2vw;
   cursor: pointer;
 }
 
