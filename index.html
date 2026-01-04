@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>Meine PWA</title>
+
+  <!-- PWA -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#2e7d32">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>💰 Gesamtumsatz</h1>
+
+    <div class="umsatz">
+      <span id="gesamtbetrag">0.00</span> €
+    </div>
+
+    <div class="eingabe">
+      <input type="number" id="betragInput" placeholder="Betrag eingeben" step="0.01">
+      <button id="hinzufuegenBtn">Hinzufügen</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

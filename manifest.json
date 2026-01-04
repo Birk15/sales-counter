@@ -1,0 +1,20 @@
+{
+  "name": "Meine Progressive Web App",
+  "short_name": "MeinePWA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e7d32",
+  "icons": [
+    {
+      "src": "icons/geld.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/geldtasche.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
