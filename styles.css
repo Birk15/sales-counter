@@ -5,21 +5,19 @@
 
 body {
   margin: 0;
-  background: #f4f6f8;
+  background: white;
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100vw;
   height: 100vh;
 }
 
 .container {
-  background: white;
   padding: 25px;
-  border-radius: 12px;
   width: 100%;
-  max-width: 500px;
+  height: fit-content;
   text-align: center;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
 
 h1 {
