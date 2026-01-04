@@ -18,6 +18,9 @@ body {
   width: 100%;
   height: fit-content;
   text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 h1 {
@@ -40,6 +43,7 @@ input {
   flex: 1;
   padding: 10px;
   font-size: 16px;
+  max-width: 300px;
 }
 
 button {
