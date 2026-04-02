@@ -30,9 +30,6 @@ open index.html  # macOS
 start index.html  # Windows
 
 
----
-
-
 ## Lizenz
 
 MIT License (MIT)
