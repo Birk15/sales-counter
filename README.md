@@ -1,29 +1,34 @@
-#Simple PWA App
+# Umsatzrechner PWA
 
-A small and simple Progressive Web App (PWA) built using HTML, CSS, and JavaScript. The app is lightweight, fast, and can be installed on mobile devices like a native application.
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
 
-Features
-Installable as a Progressive Web App
-Fast loading times
-Responsive design for mobile devices
-Optional offline support via Service Worker
-Technologies
-HTML5
-CSS3
-Vanilla JavaScript
-Service Worker
-Installation
+Eine kleine **Progressive Web App (PWA)**, die deine Jahresumsätze berechnet.  
+Die App basiert auf **HTML, CSS und JavaScript** und ist sowohl auf Desktop als auch auf Mobilgeräten nutzbar. 🚀
 
-Clone the repository:
+---
 
-git clone <repo-url>
+## Inhaltsverzeichnis
+- [Installation](#installation)
+- [Benutzung](#benutzung)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Mitwirken](#mitwirken)
+- [Lizenz](#lizenz)
 
-Open the project folder and run the app by opening index.html in your browser.
+---
 
-Usage
+## Installation
 
-Open the app in your browser and use the "Add to Home Screen" option to install it on your device.
+Die App ist eine PWA, du kannst sie einfach lokal testen:
 
-License
+```bash
+# Repository klonen
+git clone https://github.com/deinbenutzername/umsatzrechner-pwa.git
+cd umsatzrechner-pwa
 
-This project is licensed under the MIT License.
+# Starte die App lokal (einfach die index.html im Browser öffnen)
+open index.html  # macOS
+# oder
+start index.html  # Windows
