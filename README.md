@@ -1,4 +1,4 @@
-Simple PWA App
+#Simple PWA App
 
 A small and simple Progressive Web App (PWA) built using HTML, CSS, and JavaScript. The app is lightweight, fast, and can be installed on mobile devices like a native application.
 
