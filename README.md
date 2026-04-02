@@ -36,12 +36,4 @@ start index.html  # Windows
 
 MIT License (MIT)
 
-Copyright (c) 2026 Dein Name
-
-Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationen erhält, unentgeltlich die Erlaubnis erteilt, die Software uneingeschränkt zu nutzen, einschließlich des Rechts, sie zu verwenden, zu kopieren, zu ändern, zusammenzuführen, zu veröffentlichen, zu verbreiten, zu unterlizenzieren und/oder zu verkaufen, solange folgendes gilt:
-
-Der obige Urheberrechtshinweis und dieser Erlaubnishinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
-
-DIE SOFTWARE WIRD OHNE JEGLICHE GEWÄHRLEISTUNG BEREITGESTELLT, SEI ES AUSDRÜCKLICH ODER STILLSCHWEIGEND, EINSCHLIESSLICH DER GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER, AUF KEINEN FALL SIND DIE AUTOREN ODER COPYRIGHTINHABER FÜR ANSPRÜCHE, SCHÄDEN ODER SONSTIGE HAFTUNGEN VERANTWORTLICH, SEI ES AUS EINER VERTRAGSHAFTUNG, EINER DELIKTHAFTUNG ODER ANDERWEITIG, DIE AUS, IM ZUSAMMENHANG MIT ODER IN VERBINDUNG MIT DER SOFTWARE ENTSTEHEN.
-
-💡 Tipp: Ersetze „Dein Name“ durch deinen echten Namen oder GitHub-Benutzernamen.
+Copyright (c) 2026 Birk
